@@ -1,13 +1,15 @@
 const path = require('path');
+
 /**
  *
- * @param {"terrace_menu" | "dining_room_menu"} type
+ * @param {"terrace_menu"} type
  * @param {String} pathUrl
  * @param {Object} actions
  * @param {Function} actions.createPages
  *
  */
-const menuBuilder = async (type, actions, graphql) => {
+
+const menusBuilder = async (actions, graphql) => {
     try {
         const { createPage } = actions;
         const {
@@ -16,23 +18,29 @@ const menuBuilder = async (type, actions, graphql) => {
             },
         } = await graphql(getAllImages);
 
-        const data = require(`../data/${type}.json`);
+        const diningRoomMenuData = require(`../data/dining_room_menu.json`);
+        const terraceMenuData = require(`../data/terrace_menu.json`);
+
         const desserts = require(`../data/desserts.json`);
 
         const component = path.resolve(`${__dirname}/../components/templates/Menu/Menu.component.jsx`);
 
-        const image = images.find((img) => img.node.gatsbyImageData.images.fallback.src.includes(data.image.name));
+        const image = images.find((img) => img.node.gatsbyImageData.images.fallback.src.includes('hostal.png'));
+        diningRoomMenuData.data[0].title = diningRoomMenuData.title;
+        terraceMenuData.data[0].title = terraceMenuData.title;
 
         createPage({
-            path: String(data.title).replace(/ /g, '-').toLowerCase(),
+            path: '/',
             component,
             context: {
-                ...data,
+                title: 'Nuestra Carta',
+                description: null,
                 image: {
-                    ...data.image,
+                    name: "hostal.png'",
+                    alt: 'Foto del logo del Hostal',
                     fuild: image.node,
                 },
-                data: [...data.data, ...desserts],
+                data: [...diningRoomMenuData.data, ...terraceMenuData.data, ...desserts],
             },
         });
     } catch (error) {
@@ -51,4 +59,4 @@ const getAllImages = `query {
     }
   }`;
 
-module.exports = menuBuilder;
+module.exports = menusBuilder;

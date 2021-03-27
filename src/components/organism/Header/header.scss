@@ -19,5 +19,9 @@
 
     @include phone {
         flex-direction: column;
+
+        &__title {
+            margin-top: 0;
+        }
     }
 }

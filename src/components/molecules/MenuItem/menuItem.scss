@@ -1,0 +1,37 @@
+@import '../../../styles/variables.scss';
+@import '../../../styles/mediaqueries.scss';
+
+.menu__section {
+    &__table {
+        padding: 1rem 0;
+        width: 100%;
+
+        & tbody > .row {
+            & > .text {
+                padding: 0.5rem 0;
+            }
+
+            & > .price {
+                min-width: 100px;
+
+                text-align: right;
+            }
+
+            & .text,
+            & .price {
+                padding-bottom: 1rem;
+            }
+        }
+    }
+
+    & .description {
+        font-style: italic;
+        font-size: 0.8rem;
+        padding-top: 0.5rem;
+        color: $fontColorSecondary;
+    }
+
+    @include phone {
+        padding: 0.5rem 1rem;
+    }
+}

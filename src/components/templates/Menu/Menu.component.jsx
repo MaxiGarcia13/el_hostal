@@ -1,5 +1,6 @@
 import React from 'react';
 import Layout from '../Layout';
+import MenuItem from '../../molecules/MenuItem';
 import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 import './menu.scss';
 
@@ -12,23 +13,12 @@ const MenuComponent = ({ pageContext: { title, image, data } }) => {
 
             {data.map((menu, index) => {
                 return (
-                    <section key={`${menu.title}-${index}`} className='menu__section'>
-                        {menu.title !== null && <h2>{menu.title}</h2>}
-                        {menu.description !== null && <p className='description'>{menu.description}</p>}
-                        <table className='menu__section__table'>
-                            <tbody>
-                                {menu.data.map((item) => (
-                                    <tr key={item.title} className='row'>
-                                        <td className='text'>
-                                            <div> {item.title}</div>
-                                            {item.description && <div className='description'>{item.description}</div>}
-                                        </td>
-                                        <td className='price'>{item.price}</td>
-                                    </tr>
-                                ))}
-                            </tbody>
-                        </table>
-                    </section>
+                    <MenuItem
+                        key={`${menu.title}-${index}`}
+                        title={menu.title}
+                        description={menu.description}
+                        data={menu.data}
+                    />
                 );
             })}
         </Layout>
