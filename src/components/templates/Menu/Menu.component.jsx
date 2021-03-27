@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 import Layout from '../Layout';
 import { GatsbyImage, getImage } from 'gatsby-plugin-image';
 import './menu.scss';
@@ -12,9 +12,10 @@ const MenuComponent = ({ pageContext: { title, image, data } }) => {
 
             {data.map((menu, index) => {
                 return (
-                    <Fragment key={`${menu.title}-${index}`}>
-                        {menu.title !== null && <h2> {menu.title}</h2>}
-                        <table className='menu__table'>
+                    <section key={`${menu.title}-${index}`} className='menu__section'>
+                        {menu.title !== null && <h2>{menu.title}</h2>}
+                        {menu.description !== null && <p className='description'>{menu.description}</p>}
+                        <table className='menu__section__table'>
                             <tbody>
                                 {menu.data.map((item) => (
                                     <tr key={item.title} className='row'>
@@ -27,7 +28,7 @@ const MenuComponent = ({ pageContext: { title, image, data } }) => {
                                 ))}
                             </tbody>
                         </table>
-                    </Fragment>
+                    </section>
                 );
             })}
         </Layout>

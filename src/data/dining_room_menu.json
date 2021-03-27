@@ -4,5 +4,16 @@
         "name": "dinning_room.png",
         "alt": "Foto del comedor"
     },
-    "data": []
+    "data": [
+        {
+            "title": "Arroces",
+            "description": "(Con un minimo de 2 raciones y un máximo de 2 tipos de arroces por mesa)",
+            "data": [
+                {
+                    "title": "Con pollo guisado y verduras",
+                    "price": "18.00€"
+                }
+            ]
+        }
+    ]
 }

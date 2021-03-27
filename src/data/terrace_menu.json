@@ -7,6 +7,7 @@
     "data": [
         {
             "title": null,
+            "description": null,
             "data": [
                 { "title": "Octavillo de anchoas con pimientos", "price": "10.00€", "description": null },
                 { "title": "Rabas de calamar fresco", "price": "14.00€", "description": null },
@@ -19,6 +20,7 @@
         },
         {
             "title": "Medias raciones",
+            "description": null,
             "data": [
                 { "title": "Rabas de calamar fresco", "price": "8.00€", "description": null },
                 { "title": "Croquetas de Jamón", "price": "7.00€", "description": "(6 unidades)" },
