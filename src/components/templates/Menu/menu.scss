@@ -1,0 +1,57 @@
+@import '../../../styles/variables.scss';
+@import '../../../styles/mediaqueries.scss';
+
+.menu {
+    position: relative;
+
+    & > .header {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 1;
+        box-sizing: border-box;
+        background: $background;
+        backdrop-filter: blur(10px);
+        opacity: 0.8;
+        padding-left: 1rem;
+    }
+
+    &__title {
+        text-align: center;
+    }
+
+    &__table {
+        padding: 1rem 0;
+        width: 100%;
+
+        & tbody > .row {
+            & > .text {
+                padding: 0.5rem 0;
+
+                & .description {
+                    font-style: italic;
+                    font-size: 0.8rem;
+                    padding-top: 0.5rem;
+                    color: $fontColorSecondary;
+                }
+            }
+
+            & > .price {
+                min-width: 100px;
+                font-size: 1.25rem;
+                font-weight: 900;
+                text-align: right;
+            }
+
+            & .text,
+            & .price {
+                padding-bottom: 1rem;
+            }
+        }
+
+        @include phone {
+            border-spacing: 1rem 0;
+        }
+    }
+}

@@ -1,0 +1,23 @@
+@import '../../../styles/mediaqueries.scss';
+.header {
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    &__title {
+        margin: 0;
+        padding-left: 8rem;
+        flex: 1;
+        margin-top: -6px;
+
+        @include phone {
+            padding-left: 0;
+            padding-top: 1rem;
+        }
+    }
+
+    @include phone {
+        flex-direction: column;
+    }
+}

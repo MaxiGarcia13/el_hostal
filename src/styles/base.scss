@@ -1,0 +1,32 @@
+@import './variables.scss';
+@import './mediaqueries.scss';
+
+body {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    font-family: $fontFamily;
+    background-color: $background;
+    color: $fontColor;
+    font-size: 1rem;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 2.5rem;
+
+    @include phone {
+        font-size: 2rem;
+    }
+}
+
+h2 {
+    font-size: 2rem;
+
+    @include phone {
+        font-size: 1.5rem;
+    }
+}
