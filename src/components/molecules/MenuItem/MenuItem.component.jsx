@@ -1,8 +1,9 @@
 import React from 'react';
 import './menuItem.scss';
 
-const MenuItemComponent = ({ title, description, data }) => (
+const MenuItemComponent = ({ title, heroTitle, description, data }) => (
     <section className='menu__section'>
+        {heroTitle && <h3 className='menu__section__heroTitle'>{heroTitle}</h3>}
         {title !== null && <h2>{title}</h2>}
         {description !== null && <p className='description'>{description}</p>}
         <table className='menu__section__table'>

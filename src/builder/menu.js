@@ -32,6 +32,7 @@ const menuBuilder = async (type, actions, graphql) => {
                     ...data.image,
                     fuild: image.node,
                 },
+                allowHeroTitle: false,
                 data: [...data.data, ...desserts],
             },
         });

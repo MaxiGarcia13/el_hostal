@@ -26,8 +26,9 @@ const menusBuilder = async (actions, graphql) => {
         const component = path.resolve(`${__dirname}/../components/templates/Menu/Menu.component.jsx`);
 
         const image = images.find((img) => img.node.gatsbyImageData.images.fallback.src.includes('hostal.png'));
-        diningRoomMenuData.data[0].title = diningRoomMenuData.title;
-        terraceMenuData.data[0].title = terraceMenuData.title;
+
+        diningRoomMenuData.data[0].heroTitle = diningRoomMenuData.title;
+        terraceMenuData.data[0].heroTitle = terraceMenuData.title;
 
         createPage({
             path: '/',
@@ -35,6 +36,7 @@ const menusBuilder = async (actions, graphql) => {
             context: {
                 title: 'Nuestra Carta',
                 description: null,
+                allowHeroTitle: true,
                 image: {
                     name: "hostal.png'",
                     alt: 'Foto del logo del Hostal',
