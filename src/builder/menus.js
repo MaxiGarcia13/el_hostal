@@ -38,7 +38,7 @@ const menusBuilder = async (actions, graphql) => {
                 description: null,
                 allowHeroTitle: true,
                 image: {
-                    name: "hostal.png'",
+                    name: 'hostal.png',
                     alt: 'Foto del logo del Hostal',
                     fuild: image.node,
                 },
