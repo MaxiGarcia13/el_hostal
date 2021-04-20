@@ -11,10 +11,10 @@
             "data": [
                 { "title": "Octavillo de anchoas con pimientos", "price": "10.00€", "description": null },
                 { "title": "Rabas de calamar fresco", "price": "14.00€", "description": null },
-                { "title": "Buñelos de bacalao con Ali-Oli", "price": "13.00€", "description": "(8 unidades)" },
+                { "title": "Buñelos de bacalao con Ali-Oli", "price": "13.00€", "description": null },
                 { "title": "Alitas de pollo con barbacoa picante", "price": "12.00€", "description": null },
                 { "title": "Patatas bravas", "price": "6.00€", "description": null },
-                { "title": "Croquetas de Jamón", "price": "12.00€", "description": "(10 unidades)" },
+                { "title": "Croquetas de Jamón", "price": "12.00€", "description": null },
                 { "title": "Ensaladilla", "price": "12.00€", "description": null }
             ]
         },
@@ -23,11 +23,11 @@
             "description": null,
             "data": [
                 { "title": "Rabas de calamar fresco", "price": "8.00€", "description": null },
-                { "title": "Croquetas de Jamón", "price": "7.00€", "description": "(6 unidades)" },
-                { "title": "Tabla de quesos de Cantabria", "price": "9.00€", "description": "(8 unidades)" },
+                { "title": "Croquetas de Jamón", "price": "7.00€", "description": null },
+                { "title": "Tabla de quesos de Cantabria", "price": "9.00€", "description": null },
                 { "title": "Ensaladilla", "price": "8.00€", "description": null },
                 { "title": "Pastel de cabracho", "price": "8.00€", "description": null },
-                { "title": "Cecina aliñada", "price": "7.00€", "description": "(10 unidades)" }
+                { "title": "Cecina aliñada", "price": "7.00€", "description": null }
             ]
         }
     ]
