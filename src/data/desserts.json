@@ -4,64 +4,28 @@
         "description": null,
         "data": [
             {
-                "title": "Arroz con leche",
+                "title": "Arroz con leche caramelizado",
                 "price": "6.00€",
                 "description": null
             },
             {
-                "title": "Tarta de queso con helado de yogurt",
+                "title": "Nuestra tarta de queso al horno y coulis de frutos rojos",
                 "price": "6.00€",
                 "description": null
             },
             {
-                "title": "Torrija de brioche con helado de vainilla",
+                "title": "Chocolate, aceite, hojaldre y sal",
                 "price": "6.00€",
                 "description": null
             },
             {
-                "title": "Flan de huevo con nata especiada",
+                "title": "Torrija de Brioche caramelizada en sartén con helado de mantecado",
+                "price": "6.00€",
+                "description": null
+            },
+            {
+                "title": "Helados artesanos",
                 "price": "5.00€",
-                "description": null
-            },
-            {
-                "title": "Tarta cremosa de chocolate",
-                "price": "6.00€",
-                "description": null
-            }
-        ]
-    },
-    {
-        "title": "Para acompañar al postre",
-        "description": null,
-        "data": [
-            {
-                "title": "PX congelado",
-                "price": "1,90€/copa",
-                "description": null
-            },
-            {
-                "title": "Oporto Niepoort",
-                "price": "3,00€/copa",
-                "description": null
-            },
-            {
-                "title": "Fernando De Castilla antique oloroso",
-                "price": "4,00€/copa",
-                "description": null
-            },
-            {
-                "title": "Fernando De Castilla palo cortado",
-                "price": "4,00€/copa",
-                "description": null
-            },
-            {
-                "title": "Leonor. palo cortado 12 años",
-                "price": "3,50€/copa",
-                "description": null
-            },
-            {
-                "title": "Oloroso Gran Barquero",
-                "price": "2,50€/copa",
                 "description": null
             }
         ]

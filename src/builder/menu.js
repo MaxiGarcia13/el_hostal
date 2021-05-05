@@ -7,7 +7,7 @@ const path = require('path');
  * @param {Function} actions.createPages
  *
  */
-const menuBuilder = async (type, actions, graphql) => {
+const menuBuilder = async (type, actions, graphql, pageName) => {
     try {
         const { createPage } = actions;
         const {
@@ -24,7 +24,7 @@ const menuBuilder = async (type, actions, graphql) => {
         const image = images.find((img) => img.node.gatsbyImageData.images.fallback.src.includes(data.image.name));
 
         createPage({
-            path: String(data.title).replace(/ /g, '-').toLowerCase(),
+            path: pageName || String(data.title).replace(/ /g, '-').toLowerCase(),
             component,
             context: {
                 ...data,

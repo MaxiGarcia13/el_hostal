@@ -3,8 +3,8 @@ const menusBuilder = require('./src/builder/menus');
 
 exports.createPages = async ({ graphql, actions }) => {
     await Promise.all([
-        menuBuilder('terrace_menu', actions, graphql),
-        menuBuilder('dining_room_menu', actions, graphql),
+        menuBuilder('terrace_menu', actions, graphql, 'carta-de-terraza'),
+        menuBuilder('dining_room_menu', actions, graphql, 'carta-del-comedor'),
         menusBuilder(actions, graphql),
     ]);
 };

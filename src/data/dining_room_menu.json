@@ -1,144 +1,140 @@
 {
-    "title": "Carta del Comedor",
+    "title": "Carta Comedor Primavera-Verano.",
     "image": {
         "name": "dinning_room.png",
         "alt": "Foto del comedor"
     },
     "data": [
         {
-            "title": "Entradas frias",
+            "title": "Embutidos y Quesos",
             "description": null,
             "data": [
                 {
-                    "title": "Cecina de León con aliño",
-                    "price": "12.00€",
+                    "title": "Jamón Ibérico de Bellota Blazquez.",
+                    "price": "21.00€",
                     "description": null
                 },
                 {
-                    "title": "Paleta ibérica con tosta de pan y tomate ",
+                    "title": "Cecina de Vaca aliñada con frutos secos y virutas de foie.",
+                    "price": "15.00€",
+                    "description": null
+                },
+                {
+                    "title": "Tabla de Quesucos de Cantabria.",
                     "price": "16.00€",
-                    "description": null
+                    "description": "( Nata: Vaca, Curado: Oveja, Semi-curado: Cabra, Tres leches: Picon Bejes Tresviso )"
                 },
                 {
-                    "title": "Tabla de quesos de Cantabria",
-                    "price": "14.00€",
-                    "description": null
-                },
-                {
-                    "title": "Ensalada de tomate, queso, aguacate y sardinas",
-                    "price": "14.00€",
-                    "description": null
-                },
-                {
-                    "title": "Anchoas de Santoña",
-                    "price": "16.00€",
-                    "description": null
-                },
-                {
-                    "title": "Ensaladilla",
-                    "price": "12.00€",
-                    "description": null
-                },
-                {
-                    "title": "Terrina de foie con membrillo y manzana asada",
-                    "price": "17.00€",
-                    "description": null
-                },
-                {
-                    "title": "Steak tartar de vaca",
-                    "price": "18.00€",
-                    "description": null
-                },
-                {
-                    "title": "Pastel de cabracho",
-                    "price": "12.00€",
+                    "title": "Acompañamiento de pan tostado con tomate.",
+                    "price": "3.00€",
                     "description": null
                 }
             ]
         },
         {
-            "title": "Entradas calientes",
+            "title": "Ensaladas",
             "description": null,
             "data": [
                 {
-                    "title": "Croquetas cremosas de jamón",
-                    "price": "12.00€",
-                    "description": null
-                },
-                {
-                    "title": "Buñuelos de bacalao en tempura con Ali-Oli",
-                    "price": "14.00€",
-                    "description": null
-                },
-                {
-                    "title": "Rabas de calamar fresco",
-                    "price": "14.00€",
-                    "description": null
-                },
-                {
-                    "title": "Patatas bravas",
-                    "price": "6.00€",
-                    "description": null
-                },
-                {
-                    "title": "Alitas de pollo con barbacoa picante",
-                    "price": "12.00€",
-                    "description": null
-                },
-                {
-                    "title": "Mollejas de lechal encebolladas al oloroso",
-                    "price": "14.00€",
-                    "description": null
-                },
-                {
-                    "title": "Alcachofas plancha con jugo de verduras asadas",
+                    "title": "Ensalada de tomate de Cantabria y cebolla tierna.",
                     "price": "10.00€",
                     "description": null
                 },
                 {
-                    "title": "Alcachofas acompañada de paleta ibérica",
+                    "title": "La ensaladilla rusa de El Hostal.",
                     "price": "12.00€",
                     "description": null
                 },
                 {
-                    "title": "Nuestro plato de cuchara diario",
-                    "price": "12.00€",
+                    "title": "Ensalada stracciatella de búfala, emulsión de tomate aliñado, pesto y pan frito.",
+                    "price": "15.00€",
+                    "description": null
+                },
+                {
+                    "title": "Nuestra ensalada cesar “con todo”.",
+                    "price": "12.50",
                     "description": null
                 }
             ]
         },
         {
-            "title": "Arroces",
-            "description": "(Con un minimo de dos raciones y un máximo de dos tipos de arroces por mesa)",
+            "title": "Otras Entradas para compartir juntos",
+            "description": null,
             "data": [
                 {
-                    "title": "Con pollo guisado y verduras",
-                    "price": "18.00€",
+                    "title": "Anchoas selección “Conservas Catalina”.",
+                    "price": "18.00€ / 2.20€ unidad",
                     "description": null
                 },
                 {
-                    "title": "Ciego con rape, calamar y langostinos",
-                    "price": "20.00€",
+                    "title": "La Gilda “Al momento” con anchoa Catalina.",
+                    "price": "2,60 €unidad",
                     "description": null
                 },
                 {
-                    "title": "Negro de calamar fresco guisado",
-                    "price": "17.00€",
+                    "title": "Terrina de foie hecha en casa con manzana asada y p.x.",
+                    "price": "19.00€",
                     "description": null
                 },
                 {
-                    "title": "De verduras naturales con hongos",
-                    "price": "16.00€",
+                    "title": "Pimientos asados a la brasa y aceite virgen extra.",
+                    "price": "12.00€",
                     "description": null
                 },
                 {
-                    "title": "Nuestra versión de cocido lebaniego",
-                    "price": "18.00€",
+                    "title": "Pastel de cabracho y sus dos salsas.",
+                    "price": "11.00€",
+                    "description": "(Salsa tartara y salsa rosa)"
+                },
+                {
+                    "title": "Rabas de calamar.",
+                    "price": "14.00€",
                     "description": null
                 },
                 {
-                    "title": "De pechuga de pato asado y laminado con setas",
-                    "price": "18.00€",
+                    "title": "Buñuelos de Bacalao con Ali-Oli suave.",
+                    "price": "14.00€",
+                    "description": "(8 unidades)."
+                },
+                {
+                    "title": "Las bravas de El Hostal.",
+                    "price": "8.00€",
+                    "description": null
+                },
+                {
+                    "title": "Croquetas cremosas de Jamón Ibérico.",
+                    "price": "12.00€",
+                    "description": "(8 unidades)."
+                }
+            ]
+        },
+        {
+            "title": "Arroces y cuchara",
+            "description": "(Para disfrutar y compartir entre 2 personas).",
+            "data": [
+                {
+                    "title": "Arroz con pollo guisado y pimientos del piquillo confitados.",
+                    "price": "18.00€/por persona",
+                    "description": null
+                },
+                {
+                    "title": "Arroz de rape, gamba roja alistada y alioli de azafrán.",
+                    "price": "22.00€/por persona",
+                    "description": null
+                },
+                {
+                    "title": "Arroz con nuestra versión del cocido lebaniego.",
+                    "price": "16.00€/por persona",
+                    "description": null
+                },
+                {
+                    "title": "Arroz negro de cachón con ali-oli suave.",
+                    "price": "20.00€/por persona",
+                    "description": null
+                },
+                {
+                    "title": "Pochas guisadas en salsa verde y almejas",
+                    "price": "15.00 €",
                     "description": null
                 }
             ]
@@ -148,19 +144,19 @@
             "description": null,
             "data": [
                 {
-                    "title": "Cachon en tinta con arroz cremoso ",
-                    "price": "14.00€",
+                    "title": "Merluza de pincho del Cantábrico en salsa verde y patata rota.",
+                    "price": "19.50€",
                     "description": null
                 },
                 {
-                    "title": "Merluza de pincho en salsa verde con berberechos",
+                    "title": "Bacalao asado, su pil-pil y asadillo de pimiento.",
                     "price": "22.00€",
                     "description": null
                 },
                 {
-                    "title": "Bacalao confitado sobre pisto y su Pil-Pi",
-                    "price": "22.00€",
-                    "description": null
+                    "title": "Pescado del dia.",
+                    "price": "s/m €",
+                    "description": "(Acompañado de patata panadera y refrito tradicional)"
                 }
             ]
         },
@@ -169,28 +165,28 @@
             "description": null,
             "data": [
                 {
-                    "title": "Paletilla de lechal sobre patata panadera y su jugo",
-                    "price": "21.00€",
+                    "title": "Steak Tartar de Vaca a nuestra manera tradicional.",
+                    "price": "19.00€",
                     "description": null
                 },
                 {
-                    "title": "Solomillo de vaca con calabaza y demi-glacé",
-                    "price": "22.00€",
+                    "title": "Carrillera de ternera guisada a modo de estofado.",
+                    "price": "16.00€",
                     "description": null
                 },
                 {
-                    "title": "Lomo de vaca maduro, patatas y padrones",
-                    "price": "22.00€",
-                    "description": null
-                },
-                {
-                    "title": "Callos de vacuno meloso",
+                    "title": "Callos de Ternera guisados a nuestra manera.",
                     "price": "12.00€",
                     "description": null
                 },
                 {
-                    "title": "Carrillera ibérica con crema de patata trufada",
-                    "price": "16.00€",
+                    "title": "Solomillo de Vaca con puré de patata, jugo de carne y verduras.",
+                    "price": "21.00€",
+                    "description": null
+                },
+                {
+                    "title": "Acompañamiento de escalope de Foie a la plancha",
+                    "price": "4.00€",
                     "description": null
                 }
             ]

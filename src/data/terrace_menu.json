@@ -1,33 +1,76 @@
 {
-    "title": "Carta de Terraza",
+    "title": "Carta Terraza Primavera-Verano",
     "image": {
         "name": "Terraza.png",
         "alt": "Foto de la terraza"
     },
     "data": [
         {
-            "title": null,
+            "title": "Embutidos, Quesos y Conservas",
             "description": null,
             "data": [
-                { "title": "Octavillo de anchoas con pimientos", "price": "10.00€", "description": null },
-                { "title": "Rabas de calamar fresco", "price": "14.00€", "description": null },
-                { "title": "Buñelos de bacalao con Ali-Oli", "price": "13.00€", "description": null },
-                { "title": "Alitas de pollo con barbacoa picante", "price": "12.00€", "description": null },
-                { "title": "Patatas bravas", "price": "6.00€", "description": null },
-                { "title": "Croquetas de Jamón", "price": "12.00€", "description": null },
-                { "title": "Ensaladilla", "price": "12.00€", "description": null }
+                { "title": "Jamón Ibérico de Bellota Blazquez.", "price": "21.00€", "description": null },
+                {
+                    "title": "Cecina de Vaca aliñada con frutos secos y virutas de foie.",
+                    "price": "15.00€",
+                    "description": null
+                },
+                {
+                    "title": "Tabla de Quesucos de Cantabria.",
+                    "price": "16.00€",
+                    "description": "( Nata: Vaca, Curado: Oveja, Semi-curado: Cabra, Tres leches: Picon Bejes Tresviso )"
+                },
+                { "title": "Acompañamiento de pan tostado con tomate.", "price": "3.00€", "description": null },
+                {
+                    "title": "Anchoas selección “Conservas Catalina”.",
+                    "price": "18.00€ / 2.20€ unidad",
+                    "description": null
+                },
+                { "title": "Anchoa en octavillo, pan y palillos.", "price": "10.00€", "description": null },
+                {
+                    "title": "La gilda “al momento” con anchoa “ Conservas Catalina”.",
+                    "price": "2.60€ unidad",
+                    "description": null
+                }
             ]
         },
         {
-            "title": "Medias raciones",
+            "title": "Otras entradas para compartir entre todos",
             "description": null,
             "data": [
-                { "title": "Rabas de calamar fresco", "price": "8.00€", "description": null },
-                { "title": "Croquetas de Jamón", "price": "7.00€", "description": null },
-                { "title": "Tabla de quesos de Cantabria", "price": "9.00€", "description": null },
-                { "title": "Ensaladilla", "price": "8.00€", "description": null },
-                { "title": "Pastel de cabracho", "price": "8.00€", "description": null },
-                { "title": "Cecina aliñada", "price": "7.00€", "description": null }
+                {
+                    "title": "Pimientos asados a la brasa y aceite virgen extra.",
+                    "price": "12.00€",
+                    "description": null
+                },
+                {
+                    "title": "Ensalada de tomate de Cantabria y cebolleta tierna.",
+                    "price": "10.00€",
+                    "description": null
+                },
+                {
+                    "title": "Pastel de cabracho y sus dos salsas.",
+                    "price": "11.00€",
+                    "description": "(Salsa Tartara y Salsa Rosa)."
+                },
+                { "title": "La ensaladilla rusa de El Hostal.", "price": "12.00€", "description": null },
+                { "title": "Rabas de calamar", "price": "14.00€", "description": null },
+                {
+                    "title": "Croquetas cremosas de Jamón Iberico.",
+                    "price": "12.00€ / 1,80€",
+                    "description": "(8 unidades)"
+                },
+                { "title": "Las bravas de El Hostal", "price": "8.00€", "description": null },
+                {
+                    "title": "Steak tartar de vaca a nuestra manera tradicional",
+                    "price": "19.00€",
+                    "description": null
+                },
+                {
+                    "title": "Entrecotte de vaca Gallega “31 dias maduración”.",
+                    "price": "24.00€",
+                    "description": "(Acompañado de pimientos confitados, padrones y patatas fritas)"
+                }
             ]
         }
     ]
