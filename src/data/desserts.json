@@ -11,7 +11,7 @@
             {
                 "title": "Nuestra tarta de queso al horno y coulis de frutos rojos",
                 "price": "6.00€",
-                "description": null
+                "description": "(La horneamos por servicio, hasta que se terminan.)"
             },
             {
                 "title": "Chocolate, aceite, hojaldre y sal",
@@ -19,14 +19,14 @@
                 "description": null
             },
             {
-                "title": "Torrija de Brioche caramelizada en sartén con helado de mantecado",
+                "title": "Torrija de sobao pasiego caramelizada con helado de mantecado.",
                 "price": "6.00€",
                 "description": null
             },
             {
                 "title": "Helados artesanos",
                 "price": "5.00€",
-                "description": null
+                "description": "(Mantecado, Chocolate y Queso)"
             }
         ]
     }
