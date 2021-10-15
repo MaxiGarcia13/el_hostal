@@ -39,6 +39,11 @@
         color: $fontColorSecondary;
     }
 
+    &_list_item {
+        padding-top: 0.5rem;
+        padding-left: 1rem;
+    }
+
     @include phone {
         padding: 0.5rem 1rem;
     }
