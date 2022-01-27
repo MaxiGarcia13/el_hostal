@@ -1,32 +1,22 @@
 {
-  "title": "Carta Terraza Otoño",
+  "title": "Carta Terraza invierno",
   "image": {
     "name": "Terraza.png",
     "alt": "Foto de la terraza"
   },
   "data": [
     {
-      "title": "Entrantes de ultramarinos",
+      "title": "Para compartir",
       "description": null,
       "data": [
         {
-          "title": "Trio de Ibéricos:",
-          "price": null,
-          "description": null,
-          "lists": [
-            "Chorizo de bellota Blázquez. 19,00€",
-            "Lomo de bellota Blázquez.  23,00€",
-            "Salchichón de bellota Blázquez.  18,00€"
-          ]
-        },
-        {
-          "title": "Cecina de Vaca aliñada con frutos secos y virutas de foie.",
-          "price": "16.00€",
+          "title": "Cecina de Vaca aliñada con frutos secos y virutas de foie",
+          "price": "15,00€",
           "description": null
         },
         {
           "title": "Anchoas selección «Conservas Catalina».",
-          "price": "18,00 / 2,20€ unidad",
+          "price": "18,00€",
           "description": null
         },
         {
@@ -36,12 +26,12 @@
         },
         {
           "title": "Pastel de cabracho y sus dos salsas.",
-          "price": "12,00€",
+          "price": "11,00€",
           "description": "(Salsa tártara y salsa rosa)"
         },
         {
-          "title": "Terrina de foie hecha en casa con manzana asada y p.x.",
-          "price": "21,00€",
+          "title": "Foie hecha en casa, compota de manzana y Pedro Ximenez.",
+          "price": "19.50€",
           "description": null
         },
         {
@@ -51,47 +41,52 @@
         },
         {
           "title": "Nuestra ensalada cesar ‘con todo’.",
-          "price": "15.00€",
+          "price": "14.00€",
           "description": "(Mezclum de lechugas, pollo frito, salsa cesar, bacon creispy, pan frito y parmesano)"
         },
         {
-          "title": "Bocadillo de pan cristal relleno al estilo «CUBANO».",
-          "price": "11.00€",
+          "title": "Rabas de calamar",
+          "price": "14.00€",
           "description": null
         },
         {
-          "title": "El huevo «Benedict» de EL Hostal.",
-          "price": "12.50€",
-          "description": null
+          "title": "Buñuelos de Bacalao con Ali-oli suave",
+          "price": "14,00€  / 2,00€ unidad",
+          "description": "(8 unidades)"
         },
         {
-          "title": "Rabas de calamar.",
-          "price": "8,50€ / 14,00€",
-          "description": null
-        },
-        {
-          "title": "Croquetas cremosas de Jamón Ibérico.",
-          "price": "12,00€ / 2,00€ unidad",
+          "title": "Croquetas cremosas de Jamón Ibérico",
+          "price": "12,00€ / 1,80€ unidad",
           "description": "(8 unidades)"
         },
         {
           "title": "Las bravas de EL Hostal.",
-          "price": "8,00€",
+          "price": " 8,00€",
           "description": "(Receta basada en la historia de la salsa brava madrileña)"
         },
         {
           "title": "Steak de Tartar de Vaca a nuestra manera tradicional.",
-          "price": "19.00€",
+          "price": "19,00€",
           "description": null
         },
         {
-          "title": "Tacos de Merluza del Cantábrico en tempura.",
+          "title": "Almejas de O Grove a la sartén.",
+          "price": "17.00€",
+          "description": null
+        },
+        {
+          "title": "Albóndigas de carne con salsa de setas, foie y trufa.",
+          "price": "16,00€",
+          "description": null
+        },
+        {
+          "title": "Tacos de Merluza del Cantábrico en Tempura.",
           "price": "19,50€",
           "description": "(Acompañados de Mezclum de lechuga y Alioli suave)"
         },
         {
           "title": "Jarrete de cerdo lacado en salsa coreana y pan brioche.",
-          "price": "21,00€",
+          "price": "18,50€",
           "description": null
         },
         {
@@ -103,6 +98,11 @@
           "title": "Cuchara del día.",
           "price": "S/producto €",
           "description": null
+        },
+        {
+          "title": "Tortilla de patata acompañada de chistorra.",
+          "price": "11,00€",
+          "description": "(Solo la elaboramos por las noches)"
         }
       ]
     }
