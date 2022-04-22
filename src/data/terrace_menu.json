@@ -1,5 +1,5 @@
 {
-  "title": "Carta Terraza invierno",
+  "title": "Carta Terraza Primavera",
   "image": {
     "name": "Terraza.png",
     "alt": "Foto de la terraza"
@@ -7,11 +7,11 @@
   "data": [
     {
       "title": "Para compartir",
-      "description": null,
+      "description": "Todos nuestros fritos están elaborados con Aceite Oliva Virgen Extra.",
       "data": [
         {
           "title": "Cecina de Vaca aliñada con frutos secos y virutas de foie",
-          "price": "15,00€",
+          "price": "16,00€",
           "description": null
         },
         {
@@ -20,18 +20,18 @@
           "description": null
         },
         {
-          "title": "La Gilda «Al momento» con Anchoa Catalina.",
+          "title": "La Gilda al momento con Anchoa Catalina.",
           "price": "3,20€ unidad",
           "description": null
         },
         {
           "title": "Pastel de cabracho y sus dos salsas.",
-          "price": "11,00€",
+          "price": "12,00€",
           "description": "(Salsa tártara y salsa rosa)"
         },
         {
-          "title": "Foie hecha en casa, compota de manzana y Pedro Ximenez.",
-          "price": "19.50€",
+          "title": "Rulo de foie hecho en casa, con aliño cítrico, pasas y granada.",
+          "price": "21.00€",
           "description": null
         },
         {
@@ -40,9 +40,14 @@
           "description": "(Salsa tartara y salsa rosa)"
         },
         {
-          "title": "Nuestra ensalada cesar ‘con todo’.",
-          "price": "14.00€",
+          "title": "Nuestra ensalada cesar 'con todo'.",
+          "price": "15.00€",
           "description": "(Mezclum de lechugas, pollo frito, salsa cesar, bacon creispy, pan frito y parmesano)"
+        },
+        {
+          "title": "Tataki de atún marinado con vinagreta de tomate y cilantro.",
+          "price": "15.00€",
+          "description": null
         },
         {
           "title": "Rabas de calamar",
@@ -62,47 +67,73 @@
         {
           "title": "Las bravas de EL Hostal.",
           "price": " 8,00€",
-          "description": "(Receta basada en la historia de la salsa brava madrileña)"
+          "description": "(Receta basada en la historia de la salsa brava madrileña), No se sirven patatas con la salsa aparte."
         },
         {
-          "title": "Steak de Tartar de Vaca a nuestra manera tradicional.",
-          "price": "19,00€",
+          "title": "Tallarines de trigo duro en salsa verde con cocochas de Bacalao.",
+          "price": "17,00€",
+          "description": null
+        },
+        {
+          "title": "Steak tartar de vaca a nuestra manera tradicional.",
+          "price": "20,00€",
           "description": null
         },
         {
           "title": "Almejas de O Grove a la sartén.",
-          "price": "17.00€",
+          "price": "19.00€",
           "description": null
         },
         {
-          "title": "Albóndigas de carne con salsa de setas, foie y trufa.",
+          "title": "Albóndigas de carne con salsa de setas, foie y patatas fritas.",
           "price": "16,00€",
           "description": null
         },
         {
-          "title": "Tacos de Merluza del Cantábrico en Tempura.",
-          "price": "19,50€",
-          "description": "(Acompañados de Mezclum de lechuga y Alioli suave)"
-        },
-        {
           "title": "Jarrete de cerdo lacado en salsa coreana y pan brioche.",
-          "price": "18,50€",
+          "price": "19,00€",
           "description": null
         },
         {
-          "title": "Callos de Ternera guisados al estilo de mi madre.",
+          "title": "Callos de Ternera guisados al estilo mi madre Elvira.",
           "price": "12,00€",
           "description": null
-        },
+        }
+      ]
+    },
+    {
+      "title": "De Tapas",
+      "description": null,
+      "data": [
         {
-          "title": "Cuchara del día.",
-          "price": "S/producto €",
+          "title": "Bríoche de Pastrami, salsa tártara y brotes tiernos.",
+          "price": "3,00€",
           "description": null
         },
         {
-          "title": "Tortilla de patata acompañada de chistorra.",
-          "price": "11,00€",
-          "description": "(Solo la elaboramos por las noches)"
+          "title": "Tartaleta con nuestra Ensaladilla.",
+          "price": "3,00€",
+          "description": null
+        },
+        {
+          "title": "Ssam de cogollo con costilla, mayonesa de kimchi y aliño de lima.",
+          "price": "3,00€",
+          "description": null
+        },
+        {
+          "title": "Tataki de atún marinado con vinagreta de tomate y cilantro.",
+          "price": "4,50€",
+          "description": null
+        },
+        {
+          "title": "Pan bao relleno de tartar de atún.",
+          "price": "3,00€",
+          "description": null
+        },
+        {
+          "title": "Alitas crujientes con BBQ japo-picante y maíz frito.",
+          "price": "3,00€",
+          "description": null
         }
       ]
     }

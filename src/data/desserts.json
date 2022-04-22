@@ -14,7 +14,7 @@
         "description": null
       },
       {
-        "title": "Cinco texturas de chocolate.",
+        "title": "Texturas de chocolate.",
         "price": "6.00€",
         "description": null
       },
@@ -26,12 +26,12 @@
       {
         "title": "Helados artesanos",
         "price": "5.00€",
-        "description": "(Mantecado, Chocolate y Queso)"
+        "description": null
       },
       {
-        "title": "Tabla de Quesucos de Cantabria",
-        "price": "16.00€",
-        "description": "(Oveja, Cabra, Vaca, Vaca ahumado y Picón de Bejes tresviso)"
+        "title": "Queso comte 24-36 meses.",
+        "price": "13.00€",
+        "description": null
       }
     ]
   }

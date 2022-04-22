@@ -1,5 +1,5 @@
 {
-  "title": "Carta Comedor invierno.",
+  "title": "Carta de Primavera.",
   "image": {
     "name": "dinning_room.png",
     "alt": "Foto del comedor"
@@ -11,16 +11,16 @@
       "data": [
         {
           "title": "Cecina de Vaca aliñada con frutos secos y virutas de foie",
-          "price": "15,00€",
+          "price": "16,00€",
           "description": null
         },
         {
-          "title": "Anchoas selección «Conservas Catalina».",
+          "title": "Anchoas selección Conservas Catalina.",
           "price": "18,00€",
           "description": null
         },
         {
-          "title": "La Gilda «Al momento» con Anchoa Catalina.",
+          "title": "La Gilda al momento con Anchoa Catalina.",
           "price": "3.20€ unidad",
           "description": null
         },
@@ -30,13 +30,13 @@
           "description": "(Salsa tártara y salsa rosa)"
         },
         {
-          "title": "Foie hecha en casa, compota de manzana y Pedro Ximenez.",
-          "price": "19.50€",
+          "title": "Rulo de foie hecho en casa, con aliño cítrico, pasas y granada.",
+          "price": "21.00€",
           "description": null
         },
         {
-          "title": "Tataki de atún con algas, vinagreta de tomate y aliño de soja.",
-          "price": "14.00€",
+          "title": "Tataki de atún marinado con vinagreta de tomate y cilantro.",
+          "price": "15.00€",
           "description": null
         },
         {
@@ -45,20 +45,15 @@
           "description": null
         },
         {
-          "title": "Carpaccio de entrecote gallego, mayonesa trufada y encurtidos.",
-          "price": "16.00€",
-          "description": null
-        },
-        {
           "title": "Nuestra ensalada cesar “con todo”",
-          "price": "14.00€",
+          "price": "15.00€",
           "description": "(Mezclum de lechugas, pollo frito, salsa cesar, bacon creispy, pan frito y parmesano)"
         }
       ]
     },
     {
       "title": "Entrantes Calientes",
-      "description": null,
+      "description": "Todos nuestros fritos están elaborados con Aceite Oliva Virgen Extra.",
       "data": [
         {
           "title": "Rabas de calamar.",
@@ -73,7 +68,7 @@
         {
           "title": "Las bravas de El Hostal.",
           "price": "8.00€",
-          "description": "(Receta basada en la historia de la salsa brava madrileña). NO SE SIRVEN PATATAS CON LA SALSA APARTE"
+          "description": "(Receta basada en la historia de la salsa brava madrileña). No se sirven patatas con la salsa aparte."
         },
         {
           "title": "Croquetas cremosas de Jamón Ibérico.",
@@ -82,18 +77,18 @@
         },
         {
           "title": "Almejas de O Grove a la sartén",
-          "price": "17.00€",
+          "price": "19.00€",
           "description": null
         },
         {
-          "title": "Albóndigas de carne con salsa de setas, foie y trufa",
+          "title": "Verduras salteadas con caldo de jamón ibérico y yema de corral.",
+          "price": "15.00€",
+          "description": null
+        },
+        {
+          "title": "Albóndigas de carne con salsa de setas, foie y patatas fritas.",
           "price": "16.00€",
           "description": null
-        },
-        {
-          "title": "Tortilla de patata acompañadas de chistorra",
-          "price": "11.00€",
-          "description": "(Solo la elaboramos por las noches)"
         }
       ]
     },
@@ -112,38 +107,48 @@
           "description": null
         },
         {
-          "title": "Arroz  de rape, gamba roja alistada y ali-oli de azafrán.",
+          "title": "Arroz marinero del senyoret con ali-oli de limón.",
           "price": "22,00€/ por persona",
           "description": null
         },
         {
-          "title": "Arroz con verduras de invierno.",
+          "title": "Arroz con verduras de primavera y magret de pato.",
+          "price": "19.00€",
+          "description": null
+        },
+        {
+          "title": "Tallarines de trigo duro en salsa verde con cocochas de Bacalao.",
+          "price": "17.00€",
+          "description": null
+        },
+        {
+          "title": "Mac and cheese con crema de chistorra a la sidra y al gratín.",
           "price": "16.00€",
           "description": null
         },
         {
           "title": "Cuchara del día.",
-          "price": "S/producto €",
+          "price": "s/producto",
           "description": null
         }
       ]
     },
     {
-      "title": "Del Mar",
+      "title": "De las mejores lonjas.",
       "description": null,
       "data": [
         {
-          "title": "Merluza de pincho del Cantábrico en salsa barquereña y almejas.",
+          "title": "Merluza con guisantes, espárragos y salsa mantequilla pasiega.",
           "price": "21,50€",
           "description": null
         },
         {
-          "title": "Bacalao extra Rafols asado, pil-pil y asadillo de pimienta.",
-          "price": "26.00€",
+          "title": "Morro Bacalao extra asado, con asadillo de pimiento.",
+          "price": "28.00€",
           "description": null
         },
         {
-          "title": "Cachón guisado en su tinta acompañado de cremoso trigo.",
+          "title": "Cachón guisado en su tinta acompañado de risotto de trigo.",
           "price": "19.00€",
           "description": null
         },
@@ -160,27 +165,22 @@
       "data": [
         {
           "title": "Steak Tartar de Vaca a nuestra manera tradicional.",
-          "price": "19.00€",
+          "price": "20.00€",
           "description": null
         },
         {
           "title": "Carrillera de ternera estofada, puré de patata y pimiento de piquillo.",
-          "price": "16.00€",
+          "price": "17.00€",
           "description": null
         },
         {
-          "title": "Callos de Ternera guisados al estilo de mi madre.",
+          "title": "Callos de Ternera guisados al estilo de mi madre Elvira.",
           "price": "12.00€",
           "description": null
         },
         {
-          "title": "Solomillo de Vaca Gallega con puré de patata y champiñones estofados.",
-          "price": "22.50€",
-          "description": null
-        },
-        {
-          "title": "Acompañamiento de Foie a la plancha.",
-          "price": "4.00€",
+          "title": "Solomillo de Vaca Gallega, puré de patata y champiñones estofados.",
+          "price": "24.00€",
           "description": null
         }
       ]
