@@ -1,5 +1,5 @@
 {
-  "title": "Carta de Primavera.",
+  "title": "Carta de Verano.",
   "image": {
     "name": "dinning_room.png",
     "alt": "Foto del comedor"
@@ -15,24 +15,14 @@
           "description": null
         },
         {
-          "title": "Anchoas selección Conservas Catalina.",
-          "price": "18,00€",
+          "title": "Anchoas Catalina aliñadas con tomate rallado.",
+          "price": "20,00€",
           "description": null
         },
         {
-          "title": "La Gilda al momento con Anchoa Catalina.",
-          "price": "3.20€ unidad",
-          "description": null
-        },
-        {
-          "title": "Pastel de cabracho y sus dos salsas.",
+          "title": "Pastel de cabracho, dos salsas.",
           "price": "12.00€",
-          "description": "(Salsa tártara y salsa rosa)"
-        },
-        {
-          "title": "Rulo de foie hecho en casa, con aliño cítrico, pasas y granada.",
-          "price": "21.00€",
-          "description": null
+          "description": "(Salsa tartara y salsa rosa)"
         },
         {
           "title": "Tataki de atún marinado con vinagreta de tomate y cilantro.",
@@ -45,9 +35,19 @@
           "description": null
         },
         {
-          "title": "Nuestra ensalada cesar “con todo”",
+          "title": "Ensalada de tomate de AQUÍ, cebolleta tierna.",
+          "price": "12.00€",
+          "description": null
+        },
+        {
+          "title": "Ensalada, tomates cherrys asados, salmorejo, anchoa, queso oveja.",
           "price": "15.00€",
-          "description": "(Mezclum de lechugas, pollo frito, salsa cesar, bacon creispy, pan frito y parmesano)"
+          "description": "(Mezclum de lechugas, pollo frito, salsa cesar, bacon crispy, pan frito y parmesano)"
+        },
+        {
+          "title": "Nuestra ensalada cesar con todo.",
+          "price": "16.00€",
+          "description": null
         }
       ]
     },
@@ -57,37 +57,37 @@
       "data": [
         {
           "title": "Rabas de calamar.",
-          "price": "8.50€ / 15,00€",
-          "description": null
+          "price": "8.50€ / 16,00€",
+          "description": "(Media / Ración)."
         },
         {
           "title": "Buñuelos de Bacalao con Ali-Oli suave.",
-          "price": "14,00€ / 2,20 € unidad",
-          "description": "(8 unidades)"
+          "price": "7,00€ / 14,00 €",
+          "description": "(Media / Ración)."
         },
         {
           "title": "Las bravas de El Hostal.",
-          "price": "8.00€",
+          "price": "9.00€",
           "description": "(Receta basada en la historia de la salsa brava madrileña). No se sirven patatas con la salsa aparte."
         },
         {
           "title": "Croquetas cremosas de Jamón Ibérico.",
-          "price": "12,00€ / 1.80€ unidad",
-          "description": "(8 unidades)"
+          "price": "6,00€ / 12.00€",
+          "description": "(Media / Ración)."
         },
         {
-          "title": "Almejas de O Grove a la sartén",
-          "price": "19.00€",
+          "title": "Pulpo sartén, migas, patatas asadas, mojos canario, papada ibérica.",
+          "price": "21.00€",
           "description": null
         },
         {
-          "title": "Verduras salteadas con caldo de jamón ibérico y yema de corral.",
+          "title": "Mejillones de O Grove cazuela, salsa marinera, cebolleta tierna.",
           "price": "15.00€",
           "description": null
         },
         {
-          "title": "Albóndigas de carne con salsa de setas, foie y patatas fritas.",
-          "price": "16.00€",
+          "title": "Servicio de pan y repetición.",
+          "price": "1.50€/ por persona",
           "description": null
         }
       ]
@@ -103,7 +103,7 @@
         },
         {
           "title": "Arroz negro de calamar con ali-oli suave.",
-          "price": "20,00€/ por persona",
+          "price": "17,00€/ por persona",
           "description": null
         },
         {
@@ -112,18 +112,13 @@
           "description": null
         },
         {
-          "title": "Arroz con verduras de primavera y magret de pato.",
-          "price": "19.00€",
+          "title": "Arroz con setas silvestres y magret de pato.",
+          "price": "18.00€",
           "description": null
         },
         {
-          "title": "Tallarines de trigo duro en salsa verde con cocochas de Bacalao.",
-          "price": "17.00€",
-          "description": null
-        },
-        {
-          "title": "Mac and cheese con crema de chistorra a la sidra y al gratín.",
-          "price": "16.00€",
+          "title": "Tallarines de trigo duro a la marinera, mejillón, colas de gambón.",
+          "price": "15.00€",
           "description": null
         },
         {
@@ -134,21 +129,26 @@
       ]
     },
     {
-      "title": "De las mejores lonjas.",
+      "title": "Pescaderia.",
       "description": null,
       "data": [
         {
-          "title": "Merluza con guisantes, espárragos y salsa mantequilla pasiega.",
+          "title": "Merluza del Cantábrico, verduras, salsa mantequilla de Cantabria.",
           "price": "21,50€",
           "description": null
         },
         {
-          "title": "Morro Bacalao extra asado, con asadillo de pimiento.",
-          "price": "28.00€",
+          "title": "Merluza del Cantábrico, verduras, salsa mantequilla de Cantabria.",
+          "price": "25.00€",
           "description": null
         },
         {
-          "title": "Cachón guisado en su tinta acompañado de risotto de trigo.",
+          "title": "Cachón guisado en su tinta, cremoso de trigo.",
+          "price": "19.00€",
+          "description": null
+        },
+        {
+          "title": "Taco de Bonito, fritada de berenjena y tomate a la parmigiana.",
           "price": "19.00€",
           "description": null
         },
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "title": "De la mejor carnicería",
+      "title": "Carnicería",
       "description": null,
       "data": [
         {
@@ -169,7 +169,7 @@
           "description": null
         },
         {
-          "title": "Carrillera de ternera estofada, puré de patata y pimiento de piquillo.",
+          "title": "Carrillera de ternera, pimiento piquillo, guisante, patatas fritas.",
           "price": "17.00€",
           "description": null
         },
@@ -181,6 +181,11 @@
         {
           "title": "Solomillo de Vaca Gallega, puré de patata y champiñones estofados.",
           "price": "24.00€",
+          "description": null
+        },
+        {
+          "title": "Costilla cerdo baja temperatura, pure patata-ajo asado, BBQ casera.",
+          "price": "19.00€",
           "description": null
         }
       ]
