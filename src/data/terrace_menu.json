@@ -1,5 +1,5 @@
 {
-  "title": "Carta Terraza Primavera",
+  "title": "Carta Terraza Verano",
   "image": {
     "name": "Terraza.png",
     "alt": "Foto de la terraza"
@@ -15,13 +15,8 @@
           "description": null
         },
         {
-          "title": "Anchoas selección «Conservas Catalina».",
-          "price": "18,00€",
-          "description": null
-        },
-        {
-          "title": "La Gilda al momento con Anchoa Catalina.",
-          "price": "3,20€ unidad",
+          "title": "Anchoas Catalina aliñadas con tomate rallado.",
+          "price": "20,00€",
           "description": null
         },
         {
@@ -30,48 +25,48 @@
           "description": "(Salsa tártara y salsa rosa)"
         },
         {
-          "title": "Rulo de foie hecho en casa, con aliño cítrico, pasas y granada.",
-          "price": "21.00€",
-          "description": null
-        },
-        {
           "title": "Ensaladilla rusa de El Hostal.",
           "price": "12.00€",
           "description": "(Salsa tartara y salsa rosa)"
         },
         {
-          "title": "Nuestra ensalada cesar 'con todo'.",
+          "title": "Ensalada de tomate de AQUÍ, cebolleta tierna.",
+          "price": "12,00€ unidad",
+          "description": null
+        },
+        {
+          "title": "Ensalada, tomates cherrys asados, salmorejo, anchoa, queso oveja.",
           "price": "15.00€",
+          "description": null
+        },
+        {
+          "title": "Nuestra ensalada cesar “ con todo ”.",
+          "price": "16.00€",
           "description": "(Mezclum de lechugas, pollo frito, salsa cesar, bacon creispy, pan frito y parmesano)"
         },
         {
-          "title": "Tataki de atún marinado con vinagreta de tomate y cilantro.",
+          "title": "Tataki de bonito marinado con vinagreta de tomate y cilantro.",
           "price": "15.00€",
           "description": null
         },
         {
           "title": "Rabas de calamar",
-          "price": "14.00€",
-          "description": null
+          "price": "8.50€ / 16.00€",
+          "description": "(Media / Ración)."
         },
         {
-          "title": "Buñuelos de Bacalao con Ali-oli suave",
-          "price": "14,00€  / 2,00€ unidad",
-          "description": "(8 unidades)"
-        },
-        {
-          "title": "Croquetas cremosas de Jamón Ibérico",
-          "price": "12,00€ / 1,80€ unidad",
-          "description": "(8 unidades)"
+          "title": "Croquetas cremosas de Jamón Ibérico.",
+          "price": "6,00€  / 12,00€",
+          "description": "(Media / Ración)."
         },
         {
           "title": "Las bravas de EL Hostal.",
-          "price": " 8,00€",
+          "price": " 9,00€",
           "description": "(Receta basada en la historia de la salsa brava madrileña), No se sirven patatas con la salsa aparte."
         },
         {
-          "title": "Tallarines de trigo duro en salsa verde con cocochas de Bacalao.",
-          "price": "17,00€",
+          "title": "Mejillones de O Grove cazuela, salsa marinera, chile.",
+          "price": "15,00€",
           "description": null
         },
         {
@@ -80,59 +75,121 @@
           "description": null
         },
         {
-          "title": "Almejas de O Grove a la sartén.",
-          "price": "19.00€",
+          "title": "Taco de Bonito, fritada de berenjena y tomate a la parmigiana.",
+          "price": "19,00€",
           "description": null
         },
         {
-          "title": "Albóndigas de carne con salsa de setas, foie y patatas fritas.",
-          "price": "16,00€",
+          "title": "Tallarines de trigo duro en salsa verde con cocochas de Bacalao.",
+          "price": "15,00€",
           "description": null
         },
         {
           "title": "Jarrete de cerdo lacado en salsa coreana y pan brioche.",
-          "price": "19,00€",
-          "description": null
+          "price": "17,00€",
+          "description": "(para compartir)"
+        },
+        {
+          "title": "Pan Brioche, acompañamiento para jarrete.",
+          "price": "3,00€",
+          "description": "(6 unidades)"
         },
         {
           "title": "Callos de Ternera guisados al estilo mi madre Elvira.",
           "price": "12,00€",
           "description": null
+        },
+        {
+          "title": "Servicio de pan y repetición.",
+          "price": "0,60€ / por persona",
+          "description": null
         }
       ]
     },
     {
-      "title": "De Tapas",
+      "title": "Entrantes",
       "description": null,
       "data": [
         {
-          "title": "Bríoche de Pastrami, salsa tártara y brotes tiernos.",
-          "price": "3,00€",
+          "title": "Cecina de Vaca aliñada con frutos secos y virutas de foie.",
+          "price": "16,00€",
           "description": null
         },
         {
-          "title": "Tartaleta con nuestra Ensaladilla.",
-          "price": "3,00€",
+          "title": "Pastel de cabracho, dos salsas.",
+          "price": "12,00€",
+          "description": "(Salsa tartara y salsa rosa)"
+        },
+        {
+          "title": "Tataki de bonito marinado, vinagreta de tomate, cilantro.",
+          "price": "15,00€",
           "description": null
         },
         {
-          "title": "Ssam de cogollo con costilla, mayonesa de kimchi y aliño de lima.",
-          "price": "3,00€",
+          "title": "Las bravas de El Hostal.",
+          "price": "9,00€",
+          "description": "(Receta basada en la historia de la salsa brava madrileña)"
+        },
+        {
+          "title": "Tortilla de patata con cebolla.",
+          "price": "15,00€",
           "description": null
         },
         {
-          "title": "Tataki de atún marinado con vinagreta de tomate y cilantro.",
-          "price": "4,50€",
+          "title": "Tortilla de patata con cebolla, bonito y mahonesa.",
+          "price": "17,00€",
+          "description": null
+        }
+      ]
+    },
+    {
+      "title": "Arroces",
+      "description": null,
+      "data": [
+        {
+          "title": "Arroz con nuestra versión del cocido lebaniego.",
+          "price": "16,00€ / por persona",
           "description": null
         },
         {
-          "title": "Pan bao relleno de tartar de atún.",
-          "price": "3,00€",
+          "title": "Arroz negro de calamar con ali-oli suave.",
+          "price": "17,00€ / por persona",
           "description": null
         },
         {
-          "title": "Alitas crujientes con BBQ japo-picante y maíz frito.",
-          "price": "3,00€",
+          "title": "Arroz marinero del senyoret con ali-oli de limón.",
+          "price": "22,00 / por persona€",
+          "description": null
+        },
+        {
+          "title": "Arroz con setas silvestres y magret de pato.",
+          "price": "18,00€ / por persona",
+          "description": null
+        }
+      ]
+    },
+    {
+      "title": "Pescaderia y carniceria",
+      "description": null,
+      "data": [
+        {
+          "title": "Tallarines de trigo duro a la marinera, mejillón, colas de gambón.",
+          "price": "17,00€",
+          "description": null
+        },
+        {
+          "title": "Cachón guisado en su tinta, cremoso de trigo.",
+          "price": "19,00€",
+          "description": null
+        },
+        {
+          "title": "Carrillera de ternera, pimiento piquillo, guisante, patatas fritas.",
+          "price": "17,00",
+          "description": null
+        },
+        {
+          "title": "Callos de Ternera guisados al estilo de mi madre Elvira.",
+          "price": "12,00€",
           "description": null
         }
       ]
