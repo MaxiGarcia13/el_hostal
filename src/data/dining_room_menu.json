@@ -25,12 +25,12 @@
           "description": "(Salsa tartara y salsa rosa)"
         },
         {
-          "title": "Tataki de atún marinado con vinagreta de tomate y cilantro.",
+          "title": "Tataki de bonito marinado con vinagreta de tomate y cilantro.",
           "price": "15.00€",
           "description": null
         },
         {
-          "title": "Ensaladilla rusa de El Hostal.",
+          "title": "La Ensaladilla rusa de El Hostal.",
           "price": "12.00€",
           "description": null
         },
@@ -42,12 +42,12 @@
         {
           "title": "Ensalada, tomates cherrys asados, salmorejo, anchoa, queso oveja.",
           "price": "15.00€",
-          "description": "(Mezclum de lechugas, pollo frito, salsa cesar, bacon crispy, pan frito y parmesano)"
+          "description": null
         },
         {
           "title": "Nuestra ensalada cesar con todo.",
           "price": "16.00€",
-          "description": null
+          "description": "(Mezclum de lechugas, pollo frito, salsa cesar, bacon crispy, pan frito y parmesano)"
         }
       ]
     },
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "title": "Arroces y cuchara",
+      "title": "Arroces, pasta y cuchara",
       "description": "(Para disfrutar y compartir entre dos personas)",
       "data": [
         {
@@ -138,7 +138,7 @@
           "description": null
         },
         {
-          "title": "Merluza del Cantábrico, verduras, salsa mantequilla de Cantabria.",
+          "title": "Bacalao lomo extra, asadillo de pimiento asados.",
           "price": "25.00€",
           "description": null
         },
