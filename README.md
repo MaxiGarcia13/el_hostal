@@ -7,3 +7,16 @@ The hostal is a restaurant located in Santander, this project help it to show so
 Enter this commands in your terminal
 
 `npm run develop ` or ` yarn develop`
+
+## Urls of the menues
+```
+# Global
+https://elhostal.gtsb.io
+
+# Terraza
+https://elhostal.gtsb.io/carta-de-terraza
+
+# Comedor
+https://elhostal.gtsb.io/carta-del-comedor
+
+```
