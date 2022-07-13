@@ -1,3 +1,11 @@
 .menu {
     position: relative;
+
+    &__description {
+        font-style: italic;
+        font-size: 0.8rem;
+        padding-top: 0.5rem;
+        color: $fontColorSecondary;
+    }
 }
+

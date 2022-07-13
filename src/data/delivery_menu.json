@@ -1,0 +1,98 @@
+{
+  "title": "El hostal a Casa",
+  "description": "Para recoger en El Hostal en horario 13:30 a 14:00. Realiza tu pedido 24H antes o hasta las 12:30.",
+  "image": {
+    "name": "dinning_room.png",
+    "alt": "Foto de la terraza"
+  },
+  "data": [
+    {
+      "title": "Entrantes",
+      "description": null,
+      "data": [
+        {
+          "title": "Cecina de Vaca aliñada con frutos secos y virutas de foie.",
+          "price": "16,00€",
+          "description": null
+        },
+        {
+          "title": "Pastel de cabracho, dos salsas.",
+          "price": "12,00€",
+          "description": "(Salsa tartara y salsa rosa)"
+        },
+        {
+          "title": "Tataki de bonito marinado, vinagreta de tomate, cilantro.",
+          "price": "15,00€",
+          "description": null
+        },
+        {
+          "title": "Las bravas de El Hostal.",
+          "price": "9,00€",
+          "description": "(Receta basada en la historia de la salsa brava madrileña)"
+        },
+        {
+          "title": "Tortilla de patata con cebolla.",
+          "price": "15,00€",
+          "description": null
+        },
+        {
+          "title": "Tortilla de patata con cebolla, bonito y mahonesa.",
+          "price": "17,00€",
+          "description": null
+        }
+      ]
+    },
+    {
+      "title": "Arroces",
+      "description": null,
+      "data": [
+        {
+          "title": "Arroz con nuestra versión del cocido lebaniego.",
+          "price": "16,00€ / por persona",
+          "description": null
+        },
+        {
+          "title": "Arroz negro de calamar con ali-oli suave.",
+          "price": "17,00€ / por persona",
+          "description": null
+        },
+        {
+          "title": "Arroz marinero del senyoret con ali-oli de limón.",
+          "price": "22,00 / por persona€",
+          "description": null
+        },
+        {
+          "title": "Arroz con setas silvestres y magret de pato.",
+          "price": "18,00€ / por persona",
+          "description": null
+        }
+      ]
+    },
+    {
+      "title": "Pescaderia y carniceria",
+      "description": null,
+      "data": [
+        {
+          "title": "Tallarines de trigo duro a la marinera, mejillón, colas de gambón.",
+          "price": "17,00€",
+          "description": null
+        },
+        {
+          "title": "Cachón guisado en su tinta, cremoso de trigo.",
+          "price": "19,00€",
+          "description": null
+        },
+        {
+          "title": "Carrillera de ternera, pimiento piquillo, guisante, patatas fritas.",
+          "price": "17,00",
+          "description": null
+        },
+        {
+          "title": "Callos de Ternera guisados al estilo de mi madre Elvira.",
+          "price": "12,00€",
+          "description": null
+        }
+      ]
+    }
+  ]
+}

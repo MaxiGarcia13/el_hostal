@@ -19,4 +19,7 @@ https://elhostal.gtsb.io/carta-de-terraza
 # Comedor
 https://elhostal.gtsb.io/carta-del-comedor
 
+# Delivery menu
+https://elhostal.gtsb.io/carta-de-delivery
+
 ```
