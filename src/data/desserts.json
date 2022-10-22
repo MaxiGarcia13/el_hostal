@@ -4,18 +4,18 @@
     "description": null,
     "data": [
       {
-        "title": "Arroz con leche caramelizado",
+        "title": "Tarta de queso al horno y coulis de frutos rojos.",
         "price": "6.00€",
         "description": null
       },
       {
-        "title": "Tarta de queso al horno y coulis de frutos rojos.",
+        "title": "Tarta de chocolate y naranja.",
         "price": "6.00€",
-        "description": "(La elaboramos por servicio hasta terminar.)"
+        "description": null
       },
       {
-        "title": "Texturas de chocolate.",
-        "price": "6.00€",
+        "title": "Hojaldre caramelizado, chantilly de frambuesa y tofe salado.",
+        "price": "7.00€",
         "description": null
       },
       {
