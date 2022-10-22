@@ -10,183 +10,173 @@
       "description": null,
       "data": [
         {
-          "title": "Cecina de Vaca aliñada con frutos secos y virutas de foie",
+          "title": "Cecina de Vaca aliñada con frutos secos y virutas de foie.",
           "price": "16,00€",
           "description": null
         },
         {
-          "title": "Anchoas Catalina aliñadas con tomate rallado.",
+          "title": "Anchoas selección Conservas Catalina.",
+          "price": "18,00€",
+          "description": null
+        },
+        {
+          "title": "Pastel de cabracho y sus dos salsas.",
+          "price": "12,00€",
+          "description": "(Salsa tartara y salsa rosa)."
+        },
+        {
+          "title": "Tiradito de atún marinado en soja, tomate seco y cilantro.",
+          "price": "15,00€",
+          "description": null
+        },
+        {
+          "title": "La ensaladilla rusa de El Hostal.",
+          "price": "12,00€",
+          "description": null
+        },
+        {
+          "title": "Ensalada pimientos asados, laminas de bacalao, vinagreta de limón y ajo.",
+          "price": "14,00€",
+          "description": null
+        },
+        {
+          "title": "Aguacate asado, langostino frito, aliño salpicón, lechuga viva.",
+          "price": "14,00€",
+          "description": null
+        },
+        {
+          "title": "Steak Tartar de Vaca a nuestra manera tradicional.",
           "price": "20,00€",
           "description": null
-        },
-        {
-          "title": "Pastel de cabracho, dos salsas.",
-          "price": "12.00€",
-          "description": "(Salsa tartara y salsa rosa)"
-        },
-        {
-          "title": "Tataki de bonito marinado con vinagreta de tomate y cilantro.",
-          "price": "15.00€",
-          "description": null
-        },
-        {
-          "title": "La Ensaladilla rusa de El Hostal.",
-          "price": "12.00€",
-          "description": null
-        },
-        {
-          "title": "Ensalada de tomate de AQUÍ, cebolleta tierna.",
-          "price": "12.00€",
-          "description": null
-        },
-        {
-          "title": "Ensalada, tomates cherrys asados, salmorejo, anchoa, queso oveja.",
-          "price": "15.00€",
-          "description": null
-        },
-        {
-          "title": "Nuestra ensalada cesar con todo.",
-          "price": "16.00€",
-          "description": "(Mezclum de lechugas, pollo frito, salsa cesar, bacon crispy, pan frito y parmesano)"
         }
       ]
     },
     {
-      "title": "Entrantes Calientes",
+      "title": "Entrantes calientes",
       "description": "Todos nuestros fritos están elaborados con Aceite Oliva Virgen Extra.",
       "data": [
         {
           "title": "Rabas de calamar.",
-          "price": "8.50€ / 17,00€",
+          "price": "9.50€ / 18.00€",
           "description": "(Media / Ración)."
         },
         {
           "title": "Buñuelos de Bacalao con Ali-Oli suave.",
-          "price": "7,00€ / 14,00 €",
+          "price": "7.00€ / 14.00€",
           "description": "(Media / Ración)."
         },
         {
           "title": "Las bravas de El Hostal.",
-          "price": "9.00€",
+          "price": "9,50€",
           "description": "(Receta basada en la historia de la salsa brava madrileña). No se sirven patatas con la salsa aparte."
         },
         {
           "title": "Croquetas cremosas de Jamón Ibérico.",
-          "price": "6,00€ / 12.00€",
+          "price": "6.00€ / 12.00€",
           "description": "(Media / Ración)."
         },
         {
-          "title": "Pulpo sartén, migas, patatas asadas, mojos canario, papada ibérica.",
-          "price": "21.00€",
-          "description": null
-        },
-        {
-          "title": "Mejillones de O Grove cazuela, salsa marinera, cebolleta tierna.",
-          "price": "15.00€",
+          "title": "Verduras salteadas, puré patata, huevo frito, trufa.",
+          "price": "17,00€",
           "description": null
         },
         {
           "title": "Servicio de pan y repetición.",
-          "price": "1.50€/ por persona",
+          "price": "1,50€",
           "description": null
         }
       ]
     },
     {
-      "title": "Arroces, pasta y cuchara",
-      "description": "(Para disfrutar y compartir entre dos personas)",
+      "title": "Arroz, pasta y cuchara",
+      "description": null,
       "data": [
         {
           "title": "Arroz con nuestra versión del cocido lebaniego.",
-          "price": "16.00€/ por persona",
+          "price": "16,00€ / por persona",
           "description": null
         },
         {
           "title": "Arroz negro de calamar con ali-oli suave.",
-          "price": "17,00€/ por persona",
+          "price": "18,00€ / por persona",
           "description": null
         },
         {
-          "title": "Arroz marinero del senyoret con ali-oli de limón.",
-          "price": "22,00€/ por persona",
+          "title": "Arroz marinero del senyoret con ali-oli suave.",
+          "price": "22,00€ / por persona",
           "description": null
         },
         {
-          "title": "Arroz con setas silvestres y magret de pato.",
-          "price": "18.00€",
+          "title": "Arroz con verduras, setas de temporada y papada ibérico.",
+          "price": "17,00€ / por persona",
           "description": null
         },
         {
-          "title": "Tallarines de trigo duro a la marinera, mejillón, colas de gambón.",
-          "price": "15.00€",
+          "title": "Tallarines trigo duro, panceta ahumada, espuma parmesano.",
+          "price": "16,00€ / por persona",
           "description": null
         },
         {
           "title": "Cuchara del día.",
-          "price": "s/producto",
+          "price": "s/producto €",
           "description": null
         }
       ]
     },
     {
-      "title": "Pescaderia.",
+      "title": "Pescaderia",
       "description": null,
       "data": [
         {
-          "title": "Merluza del Cantábrico, verduras, salsa mantequilla de Cantabria.",
-          "price": "21,50€",
+          "title": "Merluza de pincho, setas salteadas, salsa mantequilla de Cantabria.",
+          "price": "20,00€",
           "description": null
         },
         {
-          "title": "Bacalao lomo extra, asadillo de pimiento asados.",
-          "price": "25.00€",
+          "title": "Bacalao lomo extra, con asadillo de pimiento asado.",
+          "price": "25,00€",
           "description": null
         },
         {
           "title": "Cachón guisado en su tinta, cremoso de trigo.",
-          "price": "19.00€",
+          "price": "19,00€",
           "description": null
         },
         {
-          "title": "Taco de Bonito, fritada de berenjena y tomate a la parmigiana.",
-          "price": "19.00€",
-          "description": null
-        },
-        {
-          "title": "Pescado del día.",
+          "title": "Pescado del dia.",
           "price": "s/m €",
           "description": null
         }
       ]
     },
     {
-      "title": "Carnicería",
+      "title": "Carnes",
       "description": null,
       "data": [
         {
-          "title": "Steak Tartar de Vaca a nuestra manera tradicional.",
-          "price": "20.00€",
+          "title": "Costilla cerdo baja temperatura, cebolla roja trufada, setas.",
+          "price": "17,00€",
           "description": null
         },
         {
-          "title": "Carrillera de ternera, pimiento piquillo, guisante, patatas fritas.",
-          "price": "17.00€",
+          "title": "Callos de Ternera guisados de mi madre Elvira.",
+          "price": "12,00€",
           "description": null
         },
         {
-          "title": "Callos de Ternera guisados al estilo de mi madre Elvira.",
-          "price": "12.00€",
+          "title": "Pollo coquelet asado al tomillo, puré patata, lechuga viva, salsa de limón.",
+          "price": "20,50€",
           "description": null
         },
         {
-          "title": "Solomillo de Vaca Gallega, puré de patata y champiñones estofados.",
-          "price": "24.00€",
+          "title": "Láminas de ternera en salsa de la abuela, patatas paja caseras.",
+          "price": "16,00€",
           "description": null
         },
         {
-          "title": "Costilla cerdo baja temperatura, pure patata-ajo asado, BBQ casera.",
-          "price": "19.00€",
-          "description": null
+          "title": "Chuleta de Vaca madurada.",
+          "price": "55,00€",
+          "description": "(Acompañado de pimientos piquillo asados, patatas fritas-pimientos padron.)"
         }
       ]
     }
