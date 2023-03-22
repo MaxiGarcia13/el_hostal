@@ -11,14 +11,14 @@
       "description": null,
       "data": [
         {
-          "title": "Cecina de Vaca aliñada con frutos secos y virutas de foie.",
+          "title": "Cecina de Vaca aliñada con frutos secos y virutas de foie rallado.",
           "price": "16,00€",
           "description": null
         },
         {
-          "title": "Anchoas selección Conservas Catalina.",
+          "title": "Anchoas selección Premium Conservas Catalina.",
           "price": "18,00€",
-          "description": null
+          "description": "(8 unidades)."
         },
         {
           "title": "Pastel de cabracho y sus dos salsas.",
@@ -31,13 +31,8 @@
           "description": null
         },
         {
-          "title": "Aguacate asado, langostino frito, aliño salpicón, lechuga viva.",
+          "title": "Aguacate asado, tacos de gambón frito, lechugas variadas y vinagreta salpicón.",
           "price": "14,00€",
-          "description": null
-        },
-        {
-          "title": "Tiradito de atún marinado en soja, tomate seco y cilantro.",
-          "price": "15.00€",
           "description": null
         },
         {
@@ -46,14 +41,14 @@
           "description": null
         },
         {
-          "title": "Rabas de calamar.",
+          "title": "Rabas de calamar",
           "price": "9.50€ / 18.00€",
-          "description": "(Media / Ración)."
+          "description": "(Media/Ración)."
         },
         {
-          "title": "Nuestros nachos, queso fundido, aguacate aliñado.",
-          "price": "10,00€",
-          "description": "(Los hacemos hasta terminar). "
+          "title": "Las bravas de El Hostal.",
+          "price": "9.50€",
+          "description": "Receta basada en la historia de la salsa brava madrileña. No se sirven patatas con la salsa aparte."
         },
         {
           "title": "Buñuelos de Bacalao con Ali-Oli suave.",
@@ -61,48 +56,38 @@
           "description": "(Media / Ración)."
         },
         {
-          "title": "Las bravas de EL Hostal.",
-          "price": " 9,50€",
-          "description": "(Receta basada en la historia de la salsa brava madrileña), No se sirven patatas con la salsa aparte."
-        },
-        {
           "title": "Croquetas cremosas de Jamón Ibérico. ",
           "price": "6,00€ / 12,00€",
           "description": "(Media / Ración)."
         },
         {
-          "title": "Flamenquin de ternera XL, queso nata, paleta ibérica, salsa setas.",
-          "price": "14,00€",
+          "title": "Pollo coquelet asado al tomillo, pure de patata con mantequilla, lechugas variadas y salsa de limón.",
+          "price": "17,50€",
           "description": null
         },
         {
-          "title": "Tira de costilla lacada al estilo americano, ensalada de col.",
-          "price": "19,00€",
-          "description": "(para compartir)"
-        },
-        {
-          "title": "Tira de costilla lacada al estilo americano, ensalada de col.",
-          "price": "5,00€",
-          "description": null
-        },
-        {
-          "title": "Jarrete de cerdo, salsa coreana, taco lechuga, guacamole.",
+          "title": "Costillar de cerdo asado a baja temperatura con salsa BBQ al estilo americano y ensalada de col.",
           "price": "17,00€",
           "description": "(para compartir)"
         },
         {
-          "title": "Pan Brioche, acompañamiento para jarrete.",
+          "title": "Jarrete de cerdo, salsa coreana, taco lechuga, guacamole",
+          "price": "17,00€",
+          "description": null
+        },
+        {
+          "title": "Pan Brioche, acompañamiento para jarrete o costilla",
           "price": "3,00€",
           "description": "(6 unidades)"
         },
         {
-          "title": "Callos de Ternera guisados al estilo mi madre",
-          "price": "12,00€",
-          "description": null
+          "title": "Callos de Ternera guisados de mi madre Elvira.",
+          "price": "14,00€",
+          "description": "(Acompañados de patatas fritas)"
         },
         {
           "title": "Servicio de pan y repetición.",
-          "price": "0,60€ / por persona",
+          "price": "0,60€",
           "description": null
         }
       ]

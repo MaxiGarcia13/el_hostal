@@ -6,42 +6,99 @@
   },
   "data": [
     {
-      "title": "Entrantes Fríos",
+      "title": "Embutidos, Quesos y Salazones.",
       "description": null,
       "data": [
         {
-          "title": "Cecina de Vaca aliñada con frutos secos y virutas de foie.",
+          "title": "Cecina de Vaca aliñada con frutos secos y foie rallado.",
           "price": "16,00€",
           "description": null
         },
         {
-          "title": "Anchoas selección Conservas Catalina.",
-          "price": "18,00€",
+          "title": "Roast beef de picaña con pimientos asados aliñados y láminas de pan.",
+          "price": "16,00€",
           "description": null
         },
         {
-          "title": "Pastel de cabracho y sus dos salsas.",
-          "price": "12,00€",
-          "description": "(Salsa tartara y salsa rosa)."
+          "title": "Anchoas selección Premium Conservas Catalina.",
+          "price": "18,00€",
+          "description": "(8 unidades)."
         },
         {
-          "title": "Tiradito de atún marinado en soja, tomate seco y cilantro.",
-          "price": "15,00€",
+          "title": "Focaccia casera de albahaca, anchoa doble y nube de Comte.",
+          "price": "6,00€/unidad",
+          "description": null
+        },
+        {
+          "title": "Tabla de Queso comte 24-36 meses.",
+          "price": "13,00€",
+          "description": "(Acompañado de frutos secos y membrillo)."
+        }
+      ]
+    },
+    {
+      "title": "Ensaladas.",
+      "description": null,
+      "data": [
+        {
+          "title": "Aguacate asado, tacos de gambón frito, lechugas variadas y vinagreta salpicón.",
+          "price": "14.00€",
           "description": null
         },
         {
           "title": "La ensaladilla rusa de El Hostal.",
+          "price": "12.00€",
+          "description": null
+        },
+        {
+          "title": "Burrata de nata La Pasiega, tomates confitados, alcaparras, olivas y anchoas.",
+          "price": "16,00€",
+          "description": null
+        },
+        {
+          "title": "Ensalada de lechugas, tacos de atún marinado con aliño de aguacate y yogurt.",
+          "price": "15.00€",
+          "description": null
+        }
+      ]
+    },
+    {
+      "title": "Otros entrantes.",
+      "description": null,
+      "data": [
+        {
+          "title": "Pastel de cabracho y sus dos salsas.",
           "price": "12,00€",
+          "description": "(Salsa tártara y salsa rosa)."
+        },
+        {
+          "title": "Rabas de calamar.",
+          "price": "9,50€ / 18,00€",
+          "description": "(Media / Ración)."
+        },
+        {
+          "title": "Buñuelos de Bacalao con Ali-Oli suave.",
+          "price": "7,00€ / 14,00€",
+          "description": "(Media / Ración)."
+        },
+        {
+          "title": "Las bravas de El Hostal.",
+          "price": "9,50€",
+          "description": "(Receta basada en la historia de la salsa brava madrileña)"
+        },
+        {
+          "title": "Croquetas cremosas de Jamón Ibérico.",
+          "price": "6,00€ / 12,00€",
+          "description": "(Media / Ración)."
+        },
+        {
+          "title": "Mollejas de cordero a la sartén encebolladas con ajo y perejil.",
+          "price": "19,00€",
           "description": null
         },
         {
-          "title": "Ensalada pimientos asados, laminas de bacalao, vinagreta de limón y ajo.",
-          "price": "14,00€",
-          "description": null
-        },
-        {
-          "title": "Aguacate asado, langostino frito, aliño salpicón, lechuga viva.",
-          "price": "14,00€",
+          "title": "Albóndigas en salsa de cebolla y foie con patatas fritas en dados.",
+          "price": "16,00€",
           "description": null
         },
         {
@@ -52,68 +109,32 @@
       ]
     },
     {
-      "title": "Entrantes calientes",
-      "description": "Todos nuestros fritos están elaborados con Aceite Oliva Virgen Extra.",
-      "data": [
-        {
-          "title": "Rabas de calamar.",
-          "price": "9.50€ / 18.00€",
-          "description": "(Media / Ración)."
-        },
-        {
-          "title": "Buñuelos de Bacalao con Ali-Oli suave.",
-          "price": "7.00€ / 14.00€",
-          "description": "(Media / Ración)."
-        },
-        {
-          "title": "Las bravas de El Hostal.",
-          "price": "9,50€",
-          "description": "(Receta basada en la historia de la salsa brava madrileña). No se sirven patatas con la salsa aparte."
-        },
-        {
-          "title": "Croquetas cremosas de Jamón Ibérico.",
-          "price": "6.00€ / 12.00€",
-          "description": "(Media / Ración)."
-        },
-        {
-          "title": "Verduras salteadas, puré patata, huevo frito, trufa.",
-          "price": "17,00€",
-          "description": null
-        },
-        {
-          "title": "Servicio de pan y repetición.",
-          "price": "1,50€",
-          "description": null
-        }
-      ]
-    },
-    {
-      "title": "Arroz, pasta y cuchara",
-      "description": null,
+      "title": "Arroces, cuchara.",
+      "description": "Para disfrutar y compartir entre 2 personas, Disponible 2 tipos de arroz por mesa",
       "data": [
         {
           "title": "Arroz con nuestra versión del cocido lebaniego.",
-          "price": "16,00€ / por persona",
+          "price": "16,00€/por persona",
           "description": null
         },
         {
-          "title": "Arroz negro de calamar con ali-oli suave.",
-          "price": "18,00€ / por persona",
+          "title": "Arroz negro de calamar guisado con ali-oli suave.",
+          "price": "18,00€/por persona",
           "description": null
         },
         {
           "title": "Arroz marinero del senyoret con ali-oli suave.",
-          "price": "22,00€ / por persona",
+          "price": "22,00€/por persona",
           "description": null
         },
         {
-          "title": "Arroz con verduras, setas de temporada y papada ibérico.",
-          "price": "17,00€ / por persona",
+          "title": "Arroz vegetal de hongos y verduras de temporada",
+          "price": "16,00€/por persona",
           "description": null
         },
         {
-          "title": "Tallarines trigo duro, panceta ahumada, espuma parmesano.",
-          "price": "16,00€ / por persona",
+          "title": "Menestra Verduras de Navarra con huevo asado a baja temperatura.",
+          "price": "16,00€",
           "description": null
         },
         {
@@ -124,26 +145,26 @@
       ]
     },
     {
-      "title": "Pescaderia",
+      "title": "Pescados",
       "description": null,
       "data": [
         {
-          "title": "Merluza de pincho, setas salteadas, salsa mantequilla de Cantabria.",
-          "price": "20,00€",
-          "description": null
-        },
-        {
-          "title": "Bacalao lomo extra, con asadillo de pimiento asado.",
-          "price": "25,00€",
-          "description": null
-        },
-        {
-          "title": "Cachón guisado en su tinta, cremoso de trigo.",
+          "title": "Lomo merluza de pincho, patata aliñada y salsa verde de guisantes.",
           "price": "19,00€",
           "description": null
         },
         {
-          "title": "Pescado del dia.",
+          "title": "Bacalao pil-pil con una base de asadillo de pimiento asado.",
+          "price": "23,00€",
+          "description": null
+        },
+        {
+          "title": "Cachón guisado en su tinta tradicional, risotto de pasta.",
+          "price": "19,00€",
+          "description": null
+        },
+        {
+          "title": "Pescado del día.",
           "price": "s/m €",
           "description": null
         }
@@ -154,29 +175,39 @@
       "description": null,
       "data": [
         {
-          "title": "Costilla cerdo baja temperatura, cebolla roja trufada, setas.",
-          "price": "17,00€",
-          "description": null
-        },
-        {
-          "title": "Callos de Ternera guisados de mi madre Elvira.",
-          "price": "12,00€",
-          "description": null
-        },
-        {
-          "title": "Pollo coquelet asado al tomillo, puré patata, lechuga viva, salsa de limón.",
-          "price": "20,50€",
-          "description": null
-        },
-        {
-          "title": "Láminas de ternera en salsa de la abuela, patatas paja caseras.",
+          "title": "Canelones de ropa vieja, salsa de cocido y garbanzos fritos especiados.",
           "price": "16,00€",
           "description": null
         },
         {
+          "title": "Costilla cerdo asada a baja temperatura, cebolla roja trufada y setas salteadas.",
+          "price": "17,00€",
+          "description": null
+        },
+        {
+          "title": "Taco de rabo guisado al vino tinto y pure de patata con mantequilla.",
+          "price": "19,00€",
+          "description": null
+        },
+        {
+          "title": "Callos de Ternera guisados de mi madre Elvira.",
+          "price": "14.00 €",
+          "description": "(Acompañados de patatas fritas)."
+        },
+        {
+          "title": "Láminas de ternera en salsa de la abuela, patatas paja caseras.",
+          "price": "17.00 €",
+          "description": null
+        },
+        {
           "title": "Chuleta de Vaca madurada.",
-          "price": "55,00€",
-          "description": "(Acompañado de pimientos piquillo asados, patatas fritas-pimientos padron.)"
+          "price": "55.00 €/kg",
+          "description": "(Acompañado de pimientos piquillo asados, patatas fritas-pimientos padrón.)"
+        },
+        {
+          "title": "Servicio de pan y repetición.",
+          "price": "1.50 €",
+          "description": null
         }
       ]
     }
